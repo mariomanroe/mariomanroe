@@ -16,10 +16,10 @@ Hi! I'm Mario, a Data Science graduate from Institut Teknologi Sumatera with a p
 ![](https://nirzak-streak-stats.vercel.app/?user=mariomanroe&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomanroe&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Quote
+## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mariomanroe&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
@@ -29,7 +29,7 @@ Hi! I'm Mario, a Data Science graduate from Institut Teknologi Sumatera with a p
 
 ---
 
-## 📫 Let’s Connect
+# 📫 Let’s Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mario-desendi/)  
 - 💬 [WhatsApp](https://wa.me/6289686783798)  
 - ✉️ mariomanroes@gmail.com
