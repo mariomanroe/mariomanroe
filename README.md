@@ -1,6 +1,6 @@
 
 # 🧑‍💻 Mario Desendi
-🎓 Data Science Graduate | 📊 Aspiring Data Analyst | 💻 Python & SQL Enthusiast
+🎓 Data Science Graduate | 📊 Data Enthusiast | 💻 Python & SQL Enthusiast
 
 Hi! I'm Mario, a Data Science graduate from Institut Teknologi Sumatera with a passion for extracting insights from data and building data-driven solutions. I love working on projects involving analytics, machine learning, and visualization.
 
