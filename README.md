@@ -3,6 +3,7 @@
 
 Hi! I'm Mario, a Data Science graduate from Institut Teknologi Sumatera with a passion for extracting insights from data and building data-driven solutions. I enjoy working on projects involving analytics, machine learning, and visualization.
 
+
 ---
 
 ## 🌐 Socials:
