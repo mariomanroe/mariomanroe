@@ -1,8 +1,8 @@
 
 # 🧑‍💻 Mario Desendi
-🎓 Data Science Graduate | 📊 Data Enthusiast | 💻 Python & SQL Enthusiast
+🎓 Data Science Graduate | 📊 Aspiring Data Analyst | 💻 Python & SQL Enthusiast
 
-Hi! I'm Mario, a Data Science graduate from Institut Teknologi Sumatera with a passion for extracting insights from data and building data-driven solutions. I love working on projects involving analytics, machine learning, and visualization.
+Hi! I'm Mario, a Data Science graduate from Institut Teknologi Sumatera with a passion for extracting insights from data and building data-driven solutions. I enjoy working on projects involving analytics, machine learning, and visualization.
 
 ---
 
@@ -16,18 +16,8 @@ Hi! I'm Mario, a Data Science graduate from Institut Teknologi Sumatera with a p
 ---
 
 ## 📂 Featured Projects
-
-🔹 **🔥 Hotspot Forecasting in Sumatra using LSTM**  
-Forecasting forest fire hotspot trends using deep learning (LSTM) to support environmental monitoring and disaster mitigation.  
-[📎 View Project](https://bit.ly/MarioProject3)
-
-🔹 **📱 Sentiment Analysis of App Reviews (Naive Bayes)**  
-Analyzed user sentiments from the Taspen authentication app reviews to understand user feedback.  
-[📎 View Project](https://bit.ly/MarioProject2)
-
-🔹 **📊 Demographic Visualization of Tanjung Agung Village**  
-Created a complete demographic dashboard from raw survey data using Python and Looker Studio.  
-[📎 View Project](https://bit.ly/MarioProject1)
+You can explore my projects here:  
+🔗 [GitHub Portfolio](https://github.com/mariomanroe)
 
 ---
 
