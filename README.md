@@ -27,8 +27,6 @@ Hi! I'm Mario, a Data Science graduate from Institut Teknologi Sumatera with a p
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
 # 📫 Let’s Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mario-desendi/)  
 - 💬 [WhatsApp](https://wa.me/6289686783798)  
