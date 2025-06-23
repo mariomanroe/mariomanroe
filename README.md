@@ -24,7 +24,7 @@ Hi! I'm Mario, a Data Science graduate from Institut Teknologi Sumatera with a p
 ![](https://github-contributor-stats.vercel.app/api?username=mariomanroe&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mariomanroe&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 # 📫 Let’s Connect
